@@ -21,9 +21,9 @@ All .csv files are part of the repository and will load into their respective ju
 
 ## Dictionary
 #### The three important files to run are..
-<li>Machine Learning Project 3.ipynb - Code that cotains nueral network models.
-
+<li>Machine Learning Project 3.ipynb -- Code that cotains nueral network models.
+<li>Machine Learning Project 3 (1).html -- html version of the python code.
+  
 #### .csv files
 <li>heart.csv -- Dataset containing paitents with heart disease found on kaggle -- https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?select=o2Saturation.csv
-Final Report
 <li>modified_heart.csv - Dataset that was changed inside the python file.
